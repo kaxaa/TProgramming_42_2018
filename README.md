@@ -1,3 +1,3 @@
 # Course of c#
 
-Русанов Константин 
+Please write your name and surname here
