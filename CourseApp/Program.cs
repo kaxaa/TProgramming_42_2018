@@ -6,7 +6,8 @@ namespace CourseApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Балабанов Дмитрий Андреевич");
+            Console.ReadLine();
         }
     }
 }
