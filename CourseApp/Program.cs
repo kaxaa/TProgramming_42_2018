@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CourseApp
 {
@@ -6,7 +6,8 @@ namespace CourseApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Бродяной Александр Олегович");
+            Console.ReadLine();
         }
     }
 }
